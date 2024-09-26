@@ -4,10 +4,12 @@
     --cinza-secundario: #c0c0c0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
+    --fonte-principal:'Inter';
 }
 
 body {
     background-color: var(--cor-de-fundo);
+    color
 
 }
 *{
